@@ -101,7 +101,7 @@ const config = {
   // notifyMode: "failure-change",
 
   // A preset that is used as a base for Jest's configuration
-  // preset: undefined,
+  preset: "jest-puppeteer",
 
   // Run tests from one or more projects
   // projects: undefined,
